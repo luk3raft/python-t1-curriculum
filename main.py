@@ -1,1 +1,1 @@
-from lesson1.classwork import comment
+from lesson3.classwork import divisibility
