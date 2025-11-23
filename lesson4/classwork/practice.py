@@ -2,7 +2,9 @@
 # Ask for age and height.
 # If age is at least 10 AND height is at least 120 cm, print "You can ride!"
 # Otherwise, print "Sorry, you can't ride."
-
+age = int(input("what is your age? "))
+height = int(input("What is your height "))
+if age >= 10
 
 
 # Problem 2
@@ -10,6 +12,10 @@
 # Ask the user to guess.
 # If they guessed right OR the number is 3, print "Lucky!"
 # Otherwise, print "Not today."
+import random
+
+x = random.randint(1, 6)import random # importing a module (required to use random.randint(a, b))
+
 
 
 
