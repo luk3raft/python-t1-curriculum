@@ -1,1 +1,1 @@
-from lesson4.classwork import practice
+from lesson5.classwork import random_item
