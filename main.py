@@ -1,1 +1,1 @@
-from lesson5.classwork import random_item
+from lesson6.classwork import search_list
